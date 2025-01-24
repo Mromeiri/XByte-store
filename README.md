@@ -37,6 +37,38 @@
 - Order tracking
 - User account administration
 
+## 🖼️ Screenshots
+
+Here are some screenshots of **Xbyte** in action:
+
+### Homepage
+
+![Homepage](screenshots/homepage.png)
+
+### Shop Screen
+
+![Product Catalog](screenshots/shop.png)
+
+### Checkout Page
+
+![Checkout Page](screenshots/checkout.png)
+
+### Cart Screen
+
+![User Dashboard](screenshots/cart.png)
+
+### Account Page
+
+![Admin Panel](screenshots/account.png)
+
+### Orders
+
+![Admin Panel](screenshots/order.png)
+
+### Faq
+
+![Admin Panel](screenshots/faq.png)
+
 ## 🛠 Tech Stack
 
 | Technology | Purpose |
@@ -55,13 +87,6 @@
 - PHP 7.4+
 - MySQL 5.7+
 - Web Server (Apache/Nginx)
-
-
-
-
-
-
-
 
 ## 📞 Contact & Support
 
