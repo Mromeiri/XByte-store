@@ -101,4 +101,4 @@ Here are some screenshots of **Xbyte** in action:
 
 ---
 
-**Made with ❤️ by OMEIIR Abdellah**
+**Made with ❤️ by OMEIRI Abdellah**
